@@ -1,5 +1,3 @@
-![Metrics](github-metrics.svg)
-
 <h1 align="center">Hi👋, I'm Shriyan Yamali</h1>
 
 <p align="center" style="font-size: 1.2em; margin-top: -10px;">
