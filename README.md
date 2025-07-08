@@ -1,14 +1,19 @@
 <h1 align="center">Hi👋, I'm Shriyan Yamali</h1>
 
 <p align="center" style="font-size: 1.2em; margin-top: -10px;">
-  <strong>Newark Charter High School Class of '27</strong><br/>
+  <a href="https://www.shriyanyamali.tech/">Website</a> |
+  <a href="https://www.shriyanyamali.tech/Shriyan%20Yamali%20Resume.pdf">Resume</a> |
+  <a href="mailto:yamalishriyan@gmail.com">Email</a> |
+  <a href="https://www.linkedin.com/in/shriyanyamali/">LinkedIn</a> |
+  <a href="https://www.instagram.com/shriyanyamali/">Instagram</a> |
+  <a href="https://x.com/shriyanyamali">X</a>
 </p>
 
 ## About Me
 
-Hi, I'm a student at Newark Charter High School interested in computer science and law. I am a programmer working to bridge computer science and law using machine learning. I've conducted academic research, developed websites and software tools, and worked with institutions like Stanford Law School, the University of Pennsylvania Carey Law School, Dartmouth College, and the University of Michigan In the future, I want to study computer science or law in College and use AI and build algorithms to easily manage legal data.
+Hi, I'm a student at Newark Charter High School interested in computer science and law. I am a programmer working to bridge these fields using machine learning. I've conducted academic research, developed websites and software tools, and collaborated with institutions like Stanford Law School, the University of Pennsylvania Carey Law School, Dartmouth College, and the University of Michigan. In the future, I want to study computer science or law in college and use AI to build algorithms that help manage legal data efficiently.
 
-I also *love* music, especially while coding. Check out my playlist [here](https://music.apple.com/us/playlist/shriyans-songs-pt-2/pl.u-JPAZbdmtL5lRpxZ).
+I also *love* listening to music, especially while coding. Check out my playlist [here](https://music.apple.com/us/playlist/shriyans-songs-pt-2/pl.u-JPAZbdmtL5lRpxZ).
 
 ## Projects
 
@@ -69,15 +74,6 @@ I also *love* music, especially while coding. Check out my playlist [here](https
 - 🏆 1st Place - Computer Programming Concepts, 2025
 - 🏆 1st Place – Information Technology Concepts, 2025
 - 📜 Computer Science Basics, YouScience
-
-## Contact
-
-[Website](https://www.shriyanyamali.tech/) | 
-[Resume](https://www.shriyanyamali.tech/Shriyan%20Yamali%20Resume.pdf) |
-[Email](mailto:yamalishriyan@gmail.com) | 
-[LinkedIn](https://www.linkedin.com/in/shriyanyamali/) | 
-[Instagram](https://www.instagram.com/shriyanyamali/) | 
-[X](https://x.com/shriyanyamali)
 
 @shriyanyamali everywhere
 
