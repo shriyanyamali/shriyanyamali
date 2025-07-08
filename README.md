@@ -17,9 +17,10 @@ I also *love* listening to music, especially while coding. Check out my playlist
 
 ## Projects
 
-- [Verdictr](https://verdictr.shriyanyamali.tech/): A database of thousands of market decisions from over 6000 antitrust cases with a searchable index, designed to save time when looking for precedents in antitrust/merger law.
-
-- [LexFlow](https://github.com/shriyanyamali/LexFlow): A program that determines how much force certain principles exert on a legal conclusion or idea, modeled by the act type’s position on a chart.
+| Name      | Description                                                                                                                                                         | Status | Affiliated University |
+|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|------------------------|
+| [Verdictr](https://verdictr.shriyanyamali.tech/) | A database of thousands of market decisions from over 6000 antitrust cases with a searchable index, designed to save time when looking for precedents in antitrust/merger law. | Ongoing | Stanford Law School       |
+| [LexFlow](https://github.com/shriyanyamali/LexFlow) | A program that determines how much force certain principles exert on a legal conclusion or idea, modeled by the act type’s position on a chart.                                  | Completed | University of Pennsylvania Carey Law School       |
 
 ## Tech Stack
 
@@ -74,8 +75,6 @@ I also *love* listening to music, especially while coding. Check out my playlist
 - 🏆 1st Place - Computer Programming Concepts, 2025
 - 🏆 1st Place – Information Technology Concepts, 2025
 - 📜 Computer Science Basics, YouScience
-
-@shriyanyamali everywhere
 
 ![Language distribution](metrics.languages.indepth.svg)
 
