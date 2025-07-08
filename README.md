@@ -20,7 +20,9 @@ I also *love* listening to music, especially while coding. Check out my playlist
 | Name      | Description                                                                                                                                                         | Status | Affiliated University |
 |-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|------------------------|
 | [Verdictr](https://verdictr.shriyanyamali.tech/) | A database of thousands of market decisions from over 6000 antitrust cases with a searchable index, designed to save time when looking for precedents in antitrust/merger law. | Ongoing | Stanford Law School       |
+| [Market Definition Scraper](https://github.com/shriyanyamali/market-def-scraper) | A tool for extracting relevant market definitions from the European Commission competition case decision PDFs using an automated pipeline. | Ongoing | Stanford Law School |
 | [LexFlow](https://github.com/shriyanyamali/LexFlow) | A program that determines how much force certain principles exert on a legal conclusion or idea, modeled by the act type’s position on a chart.                                  | Completed | University of Pennsylvania Carey Law School       |
+
 
 ## Tech Stack
 
