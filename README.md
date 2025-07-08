@@ -84,4 +84,6 @@ I also *love* music, especially while coding. Check out my playlist [here](https
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shriyanyamali&show_icons=true&locale=en&layout=compact" alt="shriyanyamali" /></p>
 
-![Metrics](isocalendar-metrics.svg)
+![Language distribution](metrics.languages.indepth.svg)
+
+![Commit calendar](metrics.isocalendar.svg)
