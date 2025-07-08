@@ -46,7 +46,6 @@ I also _love_ listening to music, especially while coding. Check out my playlist
     <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Google%20Gemini-4285F4.svg?style=flat-square&logo=google&logoColor=white"/>
   </td>
 </tr>
 
@@ -58,6 +57,7 @@ I also _love_ listening to music, especially while coding. Check out my playlist
     <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Google%20Gemini-4285F4.svg?style=flat-square&logo=google&logoColor=white"/>
   </td>
 </tr>
 
