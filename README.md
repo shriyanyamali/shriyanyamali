@@ -70,12 +70,6 @@ I also _love_ listening to music, especially while coding. Check out my playlist
 </tr>
 </table>
 
-## Awards & Certifications
-
-- 🏆 1st Place – Computer Programming Concepts, BPA NLC 2025
-- 🏆 1st Place – Information Technology Concepts, BPA NLC 2025
-- 📜 Computer Science Basics, YouScience
-
 ![Language distribution](metrics.languages.indepth.svg)
 
 ![Commit calendar](metrics.isocalendar.svg)
