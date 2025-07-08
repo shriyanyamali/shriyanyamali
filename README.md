@@ -1,16 +1,89 @@
-## Hi there 👋
+![Metrics](github-metrics.svg)
 
-<!--
-**shriyanyamali/shriyanyamali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi👋, I'm Shriyan Yamali</h1>
 
-Here are some ideas to get you started:
+<p align="center" style="font-size: 1.2em; margin-top: -10px;">
+  <strong>Newark Charter High School Class of '27</strong><br/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+Hi, I'm a student at Newark Charter High School interested in computer science and law. I am a programmer working to bridge computer science and law using machine learning. I've conducted academic research, developed websites and software tools, and worked with institutions like Stanford Law School, the University of Pennsylvania Carey Law School, Dartmouth College, and the University of Michigan In the future, I want to study computer science or law in College and use AI and build algorithms to easily manage legal data.
+
+I also *love* music, especially while coding. Check out my playlist [here](https://music.apple.com/us/playlist/shriyans-songs-pt-2/pl.u-JPAZbdmtL5lRpxZ).
+
+## Projects
+
+- [Verdictr](https://verdictr.shriyanyamali.tech/): A database of thousands of market decisions from over 6000 antitrust cases with a searchable index, designed to save time when looking for precedents in antitrust/merger law.
+
+- [LexFlow](https://github.com/shriyanyamali/LexFlow): A program that determines how much force certain principles exert on a legal conclusion or idea, modeled by the act type’s position on a chart.
+
+## Tech Stack
+
+<table>
+  <tr>
+  <td><strong>Programming Languages</strong></td>
+  <td>
+    <img src="https://img.shields.io/badge/OCaml-%23347CAC.svg?style=flat-square&logo=ocaml&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+    <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat-square&logo=latex&logoColor=white"/>
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Web Development</strong></td>
+  <td>
+    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Google%20Gemini-4285F4.svg?style=flat-square&logo=google&logoColor=white"/>
+  </td>
+</tr>
+
+<tr>
+  <td><strong>ML / AI & Data Science</strong></td>
+  <td>
+    <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Dev Tools</strong></td>
+  <td>
+    <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white"/>
+  </td>
+</tr>
+
+</table>
+
+## Awards & Certifications
+
+- 🏆 1st Place - Computer Programming Concepts, 2025
+- 🏆 1st Place – Information Technology Concepts, 2025
+- 📜 Computer Science Basics, YouScience
+
+## Contact
+
+[Website](https://www.shriyanyamali.tech/) | 
+[Resume](https://www.shriyanyamali.tech/Shriyan%20Yamali%20Resume.pdf) |
+[Email](mailto:yamalishriyan@gmail.com) | 
+[LinkedIn](https://www.linkedin.com/in/shriyanyamali/) | 
+[Instagram](https://www.instagram.com/shriyanyamali/) | 
+[X](https://x.com/shriyanyamali)
+
+@shriyanyamali everywhere
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shriyanyamali&show_icons=true&locale=en&layout=compact" alt="shriyanyamali" /></p>
+
+![Metrics](github-metrics.svg)
