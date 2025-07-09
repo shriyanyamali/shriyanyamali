@@ -9,7 +9,7 @@
   <a href="https://x.com/shriyanyamali">X</a>
 </p>
 
-## About Me
+## About
 
 I'm a student at Newark Charter High School interested in computer science and law. Here are some things about me:
 
