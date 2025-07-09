@@ -11,7 +11,7 @@
 
 ## About Me
 
-Hi, I'm a student at Newark Charter High School interested in computer science and law. Here are some things about me:
+I'm a student at Newark Charter High School interested in computer science and law. Here are some things about me:
 
 - I mainly build websites but sometimes to do research.
 - I am currently working on [Verdictr](https://verdictr.shriyanyamali.tech/) in collaboration with Stanford Law School.
@@ -61,6 +61,7 @@ Hi, I'm a student at Newark Charter High School interested in computer science a
   <td>
     <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   </td>
 </tr>
 </table>
