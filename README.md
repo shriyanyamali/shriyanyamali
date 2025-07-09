@@ -11,17 +11,12 @@
 
 ## About Me
 
-Hi, I'm a student at Newark Charter High School interested in computer science and law. I am a programmer working to bridge these fields using machine learning. I've conducted academic research, developed websites and software tools, and collaborated with institutions like Stanford Law School, the University of Pennsylvania Carey Law School, Dartmouth College, and the University of Michigan. In the future, I want to study computer science or law in college and use AI to build algorithms that help manage legal data efficiently.
+Hi, I'm a student at Newark Charter High School interested in computer science and law. Here are some things about me:
 
-I also _love_ listening to music, especially while coding. Check out my playlist [here](https://music.apple.com/us/playlist/shriyans-songs-pt-2/pl.u-JPAZbdmtL5lRpxZ).
-
-## Projects
-
-| Name                                                                      | Description                                                                                                                                                                    | Status    | Affiliated University                       |
-| ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | ------------------------------------------- |
-| [Verdictr](https://verdictr.shriyanyamali.tech/)                          | A database of thousands of market decisions from over 6000 antitrust cases with a searchable index, designed to save time when looking for precedents in antitrust/merger law. | Ongoing   | Stanford Law School                         |
-| [Definition Scraper](https://github.com/shriyanyamali/market-def-scraper) | A tool for extracting relevant market definitions from the European Commission competition case decision PDFs using an automated pipeline.                                     | Ongoing   | Stanford Law School                         |
-| [LexFlow](https://github.com/shriyanyamali/LexFlow)                       | A program that determines how much force certain principles exert on a legal conclusion or idea, modeled by the act type’s position on a chart.                                | Completed | University of Pennsylvania Carey Law School |
+- I mainly build websites but sometimes to do research
+- I am currently working on [Verdictr](https://verdictr.shriyanyamali.tech/) in collaboration with Stanford Law School
+- In the future, I want to study computer science or law in college.
+- I also _love_ listening to music, especially while coding. [Check out my playlist](https://music.apple.com/us/playlist/shriyans-songs-pt-2/pl.u-JPAZbdmtL5lRpxZ).
 
 ## Tech Stack
 
