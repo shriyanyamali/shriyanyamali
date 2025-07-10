@@ -13,7 +13,7 @@
 
 I'm a student at Newark Charter High School interested in computer science and law. Here are some things about me:
 
-- I mainly build websites but sometimes to do research.
+- I mainly build websites, but sometimes do research.
 - I am currently working on [Verdictr](https://verdictr.shriyanyamali.tech/) in collaboration with Stanford Law School.
 - In the future, I want to study computer science or law in college.
 - I also _love_ listening to music, especially while coding. [Check out my playlist](https://music.apple.com/us/playlist/shriyans-songs-pt-2/pl.u-JPAZbdmtL5lRpxZ).
