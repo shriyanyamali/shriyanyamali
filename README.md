@@ -65,6 +65,8 @@ I'm a student at Newark Charter High School interested in computer science and l
 </tr>
 </table>
 
+<img src="https://duolingo-stats-card.vercel.app/api?username=shriyanyamali&theme=github-dark&sort=xp" alt="Duolingo Stats"/>
+
 ![Language distribution](metrics.languages.indepth.svg)
 
 ![Commit calendar](metrics.isocalendar.svg)
