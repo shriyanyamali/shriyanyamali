@@ -54,15 +54,6 @@ I'm a student at Newark Charter High School interested in computer science and l
     <img src="https://img.shields.io/badge/Google%20Gemini-4285F4.svg?style=flat-square&logo=google&logoColor=white"/>
   </td>
 </tr>
-
-<tr>
-  <td><strong>Dev Tools</strong></td>
-  <td>
-    <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  </td>
-</tr>
 </table>
 
 <img src="https://duolingo-stats-card.vercel.app/api?username=shriyanyamali&theme=github-dark&sort=xp" alt="Duolingo Stats"/>
