@@ -13,7 +13,7 @@
 
 I'm a student at Newark Charter High School interested in computer science and law. Here are some things about me:
 
-- I am currently working on [Verdictr](https://verdictr.shriyanyamali.tech/) in collaboration with Stanford Law School.
+- I am currently working on [Verdictr](https://verdictr.vercel.app/) in collaboration with Stanford Law School.
 - I enjoy Cooking, Volleyball, and playing [Clash Royale](https://royaleapi.com/player/YL0YPJRG8).
 - I also _love_ listening to music, especially while coding. [Check out my playlist](https://music.apple.com/us/playlist/shriyans-songs-pt-2/pl.u-JPAZbdmtL5lRpxZ).
 
@@ -56,8 +56,8 @@ I'm a student at Newark Charter High School interested in computer science and l
 </tr>
 </table>
 
-<img src="https://duolingo-stats-card.vercel.app/api?username=shriyanyamali&theme=github-dark&sort=xp" alt="Duolingo Stats"/>
+<!-- <img src="https://duolingo-stats-card.vercel.app/api?username=shriyanyamali&theme=github-dark&sort=xp" alt="Duolingo Stats"/> -->
 
 ![Language distribution](metrics.languages.indepth.svg)
 
-![Commit calendar](metrics.isocalendar.svg)
+<!-- ![Commit calendar](metrics.isocalendar.svg) -->
