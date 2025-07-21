@@ -37,6 +37,7 @@ I'm a student at Newark Charter High School interested in computer science and l
   <td>
     <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Framer-05F?style=flat-square&logo=framer&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
