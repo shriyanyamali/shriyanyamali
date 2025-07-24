@@ -23,36 +23,36 @@ I'm a student at Newark Charter High School interested in computer science and l
   <tr>
   <td><strong>Programming Languages</strong></td>
   <td>
-    <img src="https://img.shields.io/badge/OCaml-%23347CAC.svg?logo=ocaml&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54"/>
-    <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?logo=latex&logoColor=white"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"/>
-    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/OCaml-%23347CAC.svg?style=flat-square&logo=ocaml&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+    <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat-square&logo=latex&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
   </td>
 </tr>
 
 <tr>
   <td><strong>Web Development</strong></td>
   <td>
-    <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Framer-05F?logo=framer&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC.svg?logo=tailwind-css&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Framer-05F?style=flat-square&logo=framer&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS-639?style=flat-square&logo=css&logoColor=fff"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   </td>
 </tr>
 
 <tr>
   <td><strong>ML / AI & Data Science</strong></td>
   <td>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
-    <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff"/>
-    <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Pinecone-000000.svg?logo=pinecone&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?style=flat-square&logo=matplotlib&logoColor=fff"/>
+    <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Pinecone-000000.svg?style=flat-square&logo=pinecone&logoColor=white"/>
   </td>
 </tr>
 </table>
