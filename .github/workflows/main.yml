@@ -12,14 +12,14 @@ jobs:
     permissions:
       contents: write
     steps:
-      # 1. Full-year isocalendar
+      # 1. half-year isocalendar
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.isocalendar.svg
           base: ""
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year
 
       # 2. Languages in-depth
       - uses: lowlighter/metrics@latest
