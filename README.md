@@ -59,15 +59,15 @@ I'm a Junior at Newark Charter High School interested in computer science and la
 
 ## Current Projects
 
--  [Lextract](https://github.com/shriyanyamali/Lextract): Automated Python pipeline that extracts market definitions from the EC (w/ Stanford)
-- [JurisMercatus](https://jurismercatus.vercel.app/): Market definition database with semantic search (w/ Stanford)
-- [Hazel](https://github.com/hazelgrove/hazel): Live functional programming editor with typed holes (w/ FP Lab @ UMich)
+-  [Lextract](https://github.com/shriyanyamali/Lextract): Automated Python pipeline that extracts market definitions from the EC (w/ **Stanford**)
+- [JurisMercatus](https://jurismercatus.vercel.app/): Market definition database with semantic search (w/ **Stanford**)
+- [Hazel](https://github.com/hazelgrove/hazel): Live functional programming editor with typed holes (w/ **FP Lab @ UMich**)
 
 ## Past Projects
 
-- [LexFlow](https://github.com/shriyanyamali/LexFlow): Shows how legal principles influence the position and outcome of act type (w/ UPenn)
-- [Juding the Judges](https://doi.org/10.48550/arXiv.2406.07791): Systematic investigation of bias in assessments by LLMs (w/ Dartmouth)
-- [ION](https://escholarship.org/uc/item/4d4097dx): AI tool that uses LLMs to analyze I/O traces to write more efficient code (w/ DIRLab @ UDel)
+- [LexFlow](https://github.com/shriyanyamali/LexFlow): Shows how legal principles influence the position and outcome of act type (w/ **UPenn**)
+- [Juding the Judges](https://doi.org/10.48550/arXiv.2406.07791): Systematic investigation of bias in assessments by LLMs (w/ **Dartmouth**)
+- [ION](https://escholarship.org/uc/item/4d4097dx): AI tool that uses LLMs to analyze I/O traces to write more efficient code (w/ **DIRLab @ UDel**)
 
 <!-- <img src="https://duolingo-stats-card.vercel.app/api?username=shriyanyamali&theme=github-dark&sort=xp" alt="Duolingo Stats"/> -->
 
