@@ -69,7 +69,7 @@ I'm a Junior at Newark Charter High School interested in computer science and la
 - [Juding the Judges](https://doi.org/10.48550/arXiv.2406.07791): Systematic investigation of bias in assessments by LLMs (w/ Dartmouth)
 - [ION](https://escholarship.org/uc/item/4d4097dx): AI tool that uses LLMs to analyze I/O traces to write more efficient code (w/ DIRLab @ UDel)
 
-<img src="https://duolingo-stats-card.vercel.app/api?username=shriyanyamali&theme=github-dark&sort=xp" alt="Duolingo Stats"/>
+<!-- <img src="https://duolingo-stats-card.vercel.app/api?username=shriyanyamali&theme=github-dark&sort=xp" alt="Duolingo Stats"/> -->
 
 <!-- GitHub Readme Stats -->
 
@@ -81,6 +81,6 @@ I'm a Junior at Newark Charter High School interested in computer science and la
 
 <!-- GitHub Actions -->
 
-![Language distribution](metrics.languages.indepth.svg)
+<!-- ![Language distribution](metrics.languages.indepth.svg) -->
 
 <!-- ![Commit calendar](metrics.isocalendar.svg) -->
