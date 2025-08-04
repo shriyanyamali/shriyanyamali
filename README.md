@@ -71,9 +71,9 @@ I'm a Junior at Newark Charter High School interested in computer science and la
 
 <img src="https://duolingo-stats-card.vercel.app/api?username=shriyanyamali&theme=github-dark&sort=xp" alt="Duolingo Stats"/>
 
-![shriyanyamali's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shriyanyamali&theme=gotham&show_icons=true&hide_border=true&layout=compact)
-
 <!-- GitHub Readme Stats -->
+
+<!-- ![shriyanyamali's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shriyanyamali&theme=gotham&show_icons=true&hide_border=true&layout=compact) -->
 
 <!-- ![shriyanyamali's Stats](https://github-readme-stats.vercel.app/api?username=shriyanyamali&theme=gotham&show_icons=true&hide_border=true&count_private=true) -->
 
@@ -81,6 +81,6 @@ I'm a Junior at Newark Charter High School interested in computer science and la
 
 <!-- GitHub Actions -->
 
-<!-- ![Language distribution](metrics.languages.indepth.svg) -->
+![Language distribution](metrics.languages.indepth.svg)
 
 <!-- ![Commit calendar](metrics.isocalendar.svg) -->
