@@ -11,11 +11,11 @@
 
 ## About
 
-I'm a student at Newark Charter High School interested in computer science and law. Here are some things about me:
+I'm a Junior at Newark Charter High School interested in computer science and law. Here are some things about me:
 
-- I am currently working on [JurisMercatus](https://jurismercatus.vercel.app/) and [Lextract](https://github.com/shriyanyamali/Lextract).
-- I enjoy Cooking, Volleyball, and playing [Clash Royale](https://royaleapi.com/player/YL0YPJRG8).
-- I also _love_ listening to music, especially while coding. [Check out my playlist](https://music.apple.com/us/playlist/shriyans-songs-pt-2/pl.u-JPAZbdmtL5lRpxZ).
+- My favorite movie is The Prestige.
+- I enjoy Cooking and playing [Clash Royale](https://royaleapi.com/player/YL0YPJRG8).
+- I  _love_ listening to music. [Check out my playlist](https://music.apple.com/us/playlist/shriyans-songs-pt-2/pl.u-JPAZbdmtL5lRpxZ).
 
 ## Tech Stack
 
