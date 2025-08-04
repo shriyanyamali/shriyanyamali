@@ -13,7 +13,7 @@
 
 I'm a student at Newark Charter High School interested in computer science and law. Here are some things about me:
 
-- I am currently working on [JurisMercatus](https://jurismercatus.vercel.app/) in collaboration with Stanford Law School.
+- I am currently working on [JurisMercatus](https://jurismercatus.vercel.app/) and [Lextract](https://github.com/shriyanyamali/Lextract).
 - I enjoy Cooking, Volleyball, and playing [Clash Royale](https://royaleapi.com/player/YL0YPJRG8).
 - I also _love_ listening to music, especially while coding. [Check out my playlist](https://music.apple.com/us/playlist/shriyans-songs-pt-2/pl.u-JPAZbdmtL5lRpxZ).
 
@@ -25,10 +25,10 @@ I'm a student at Newark Charter High School interested in computer science and l
   <td>
     <img src="https://img.shields.io/badge/OCaml-%23347CAC.svg?style=flat-square&logo=ocaml&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
-    <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat-square&logo=latex&logoColor=white"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat-square&logo=latex&logoColor=white"/>
   </td>
 </tr>
 
@@ -39,8 +39,8 @@ I'm a student at Newark Charter High School interested in computer science and l
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Framer-05F?style=flat-square&logo=framer&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS-639?style=flat-square&logo=css&logoColor=fff"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS-639?style=flat-square&logo=css&logoColor=fff"/>
   </td>
 </tr>
 
@@ -57,8 +57,21 @@ I'm a student at Newark Charter High School interested in computer science and l
 </tr>
 </table>
 
+## Current Projects
+
+-  [Lextract](https://github.com/shriyanyamali/Lextract): Automated Python pipeline that extracts market definitions from the EC (w/ Stanford)
+- [JurisMercatus](https://jurismercatus.vercel.app/): Market definition database with semantic search (w/ Stanford)
+- [Hazel](https://github.com/hazelgrove/hazel): Live functional programming editor with typed holes (w/ FP Lab @ UMich)
+
+## Past Project
+
+- [LexFlow](https://github.com/shriyanyamali/LexFlow): Shows how legal principles influence the position and outcome of act type (w/ UPenn)
+- [Juding the Judges](https://doi.org/10.48550/arXiv.2406.07791): Systematic investigation of bias in assessments by LLMs (w/ Dartmouth)
+- [ION](https://escholarship.org/uc/item/4d4097dx): AI tool that uses LLMs to analyze I/O traces to write more efficient code (w/ DIRLab @ UDel)
+
+
 <!-- <img src="https://duolingo-stats-card.vercel.app/api?username=shriyanyamali&theme=github-dark&sort=xp" alt="Duolingo Stats"/> -->
 
 ![Language distribution](metrics.languages.indepth.svg)
 
-<!-- ![Commit calendar](metrics.isocalendar.svg) -->
+![Commit calendar](metrics.isocalendar.svg)
