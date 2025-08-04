@@ -69,9 +69,17 @@ I'm a student at Newark Charter High School interested in computer science and l
 - [Juding the Judges](https://doi.org/10.48550/arXiv.2406.07791): Systematic investigation of bias in assessments by LLMs (w/ Dartmouth)
 - [ION](https://escholarship.org/uc/item/4d4097dx): AI tool that uses LLMs to analyze I/O traces to write more efficient code (w/ DIRLab @ UDel)
 
+![shriyanyamali's Stats](https://github-readme-stats.vercel.app/api?username=shriyanyamali&theme=gotham&show_icons=true&hide_border=true&count_private=true)
+
+![shriyanyamali's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shriyanyamali&theme=gotham&show_icons=true&hide_border=true&layout=compact)
+
 
 <!-- <img src="https://duolingo-stats-card.vercel.app/api?username=shriyanyamali&theme=github-dark&sort=xp" alt="Duolingo Stats"/> -->
 
-![Language distribution](metrics.languages.indepth.svg)
+<!-- ![shriyanyamali's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shriyanyamali&theme=vue-dark&hide_border=true) -->
 
-![Commit calendar](metrics.isocalendar.svg)
+<!-- GitHub Actions -->
+
+<!-- ![Language distribution](metrics.languages.indepth.svg) -->
+
+<!-- ![Commit calendar](metrics.isocalendar.svg) -->
