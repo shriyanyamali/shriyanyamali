@@ -11,7 +11,7 @@
 
 ## About
 
-I'm a Junior at Newark Charter High School interested in computer science and law. Here are some things about me:
+I'm a Junior at Newark Charter High School. Here are some things about me:
 
 - My favorite movie is The Prestige.
 - I enjoy Cooking and playing [Clash Royale](https://royaleapi.com/player/YL0YPJRG8).
