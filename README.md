@@ -59,7 +59,7 @@ I'm a Junior at Newark Charter High School. Here are some things about me:
 
 ## Current Projects
 
--  [Lextract](https://github.com/shriyanyamali/Lextract): Automated Python pipeline that extracts market definitions from the EC (w/ **Stanford**)
+-  [Lextract](https://lextract.shriyanyamali.tech/): Automated Python pipeline that extracts market definitions from the EC (w/ **Stanford**)
 - [JurisMercatus](https://jurismercatus.vercel.app/): Market definition database with semantic search (w/ **Stanford**)
 - [Hazel](https://github.com/hazelgrove/hazel): Live functional programming editor with typed holes (w/ **FP Lab @ UMich**)
 
