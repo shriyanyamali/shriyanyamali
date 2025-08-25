@@ -1,8 +1,8 @@
 <h1 align="center">Hi👋, I'm Shriyan Yamali</h1>
 
 <p align="center" style="font-size: 1.2em; margin-top: -10px;">
-  <a href="https://www.shriyanyamali.tech/">Website</a> |
-  <a href="https://www.shriyanyamali.tech/Shriyan%20Yamali%20Resume.pdf">Resume</a> |
+  <a href="https://www.shriyanyamali.com/">Website</a> |
+  <a href="https://www.shriyanyamali.com/Shriyan%20Yamali%20Resume.pdf">Resume</a> |
   <a href="mailto:yamalishriyan@gmail.com">Email</a> |
   <a href="https://www.linkedin.com/in/shriyanyamali/">LinkedIn</a> |
   <a href="https://www.instagram.com/shriyanyamali/">Instagram</a> |
@@ -59,8 +59,8 @@ I'm a Junior at Newark Charter High School. Here are some things about me:
 
 ## Current Projects
 
--  [Lextract](https://lextract.shriyanyamali.tech/): Automated Python pipeline that extracts market definitions from the EC (w/ **Stanford**)
-- [JurisMercatus](https://jurismercatus.vercel.app/): Market definition database with semantic search (w/ **Stanford**)
+-  [Lextract](https://lextract.shriyanyamali.com/): Automated Python pipeline that extracts market definitions from the EC (w/ **Stanford**)
+- [JurisMercatus](https://jurismercatus.shriyanyamali.com): Market definition database with semantic search (w/ **Stanford**)
 - [Hazel](https://github.com/hazelgrove/hazel): Live functional programming editor with typed holes (w/ **FP Lab @ UMich**)
 
 ## Past Projects
