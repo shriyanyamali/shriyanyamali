@@ -11,10 +11,9 @@
 
 ## About
 
-I'm a Junior at Newark Charter High School. Here are some things about me:
-
+- I'm a Junior at Newark Charter High School.
 - My favorite movie is The Prestige.
-- I enjoy Cooking and playing [Clash Royale](https://royaleapi.com/player/YL0YPJRG8).
+- I enjoy playing [Clash Royale](https://royaleapi.com/player/YL0YPJRG8).
 - I  _love_ listening to music. [Check out my playlist](https://music.apple.com/us/playlist/shriyans-songs-pt-2/pl.u-JPAZbdmtL5lRpxZ).
 
 ## Tech Stack
