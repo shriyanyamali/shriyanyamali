@@ -2,7 +2,7 @@
 
 <p align="center" style="font-size: 1.2em; margin-top: -10px;">
   <a href="https://www.shriyanyamali.com/">Website</a> |
-  <a href="https://www.shriyanyamali.com/Shriyan%20Yamali%20Resume.pdf">Resume</a> |
+  <a href="https://www.shriyanyamali.com/Shriyan_Yamali_Resume.pdf">Resume</a> |
   <a href="mailto:yamalishriyan@gmail.com">Email</a> |
   <a href="https://www.linkedin.com/in/shriyanyamali/">LinkedIn</a> |
   <a href="https://www.instagram.com/shriyanyamali/">Instagram</a> |
