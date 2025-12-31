@@ -8,4 +8,4 @@ Projects
 
 > "One doesn't discover new lands without consenting to lose sight, for a very long time, of the shore.” - André Gide
 
-![Language distribution](metrics.languages.indepth.svg)
+<!-- ![Language distribution](metrics.languages.indepth.svg) -->
