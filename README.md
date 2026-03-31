@@ -1,5 +1,5 @@
 [Website](https://www.shriyanyamali.com/) /
-[Resume](https://shriyanyamali.com/Shriyan%20Yamali%20Resume.pdf) /
+[LinkedIn](https://www.linkedin.com/in/shriyanyamali/) /
 [Email](mailto:yamalishriyan@gmail.com)
 
 Projects
